@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">common Room</string>
+    <string name="title_activity_home">home</string>
+    <string name="PRQS">P&#032;&#032;&#032;&#032;&#032;&#032;&#032;&#032;Q&#032;&#032;&#032;&#032;&#032;&#032;&#032;&#032;&#032;&#032;R&#032;&#032;&#032;&#032;&#032;&#032;&#032;&#032;&#032;&#032;S&#032;</string>
+    >
+    <string name="fullPRQS">Post Query Resolve Sway</string>>
+    <string name="description">CommonRoom is a community based application for students to post their Queries, Discoveries, Doubts etc. with others as post.
+    </string>
+    <string name="description2">This application also allows the features of any virtual discussion forum, where, students are encouraged to post comment/replies and click on agree/disagree button to present their point of view and opinions.
+    </string>
+    <string name="devs">Developers behind the application:</string>
+    <string name="dev1">Priyanka Panda, MCA 41st batch, IGIT</string>
+    <string name="dev2">Omishan Upadhyay, MCA 41st batch, IGIT</string>
+    <string name="cont">none</string>
+    <string name="reply">Reply</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="send">Send</string>
+    <string name="user0001">user0001</string>
+    <string name="posttext">Type here what you would like to post....</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">Password</string>
+    <string name="user_id">User_ID</string>
+    <string name="create_account">Create Account</string>
+</resources>
